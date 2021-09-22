@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn1">SIGNUP</string>
+    <string name="Name">btn1</string>
+    <string name="SIGNUP">button1</string>
+    <string name="button3">REGISTER</string>
+    <string name="button2">CANCEL</string>
+    <string name="Text2">Name</string>
+    <string name="Text3">Email</string>
+    <string name="Text4">Telephone</string>
+    <string name="Text5">Password</string>
+    <string name="Text6">Re-type Password</string>
+</resources>
